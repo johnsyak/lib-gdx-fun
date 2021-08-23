@@ -1,0 +1,64 @@
+com/mygdx/game/temp/TestDrawable.java
+ com.mygdx.game.temp.TestDrawable
+com/mygdx/game/interfaces/domain/Movable.java
+ com.mygdx.game.interfaces.domain.Movable
+com/mygdx/game/creatures/hero/Direction.java
+ com.mygdx.game.creatures.hero.Direction
+com/mygdx/game/interfaces/domain/Positionable.java
+ com.mygdx.game.interfaces.domain.Positionable
+com/mygdx/game/interfaces/domain/Advancable.java
+ com.mygdx.game.interfaces.domain.Advancable
+com/mygdx/game/assets/AssetConstants.java
+ com.mygdx.game.assets.AssetConstants
+com/mygdx/game/interfaces/domain/Controllable.java
+ com.mygdx.game.interfaces.domain.Controllable
+com/mygdx/game/movement/Collision.java
+ com.mygdx.game.movement.Collision
+com/mygdx/game/util/VectorUtil.java
+ com.mygdx.game.util.VectorUtil
+com/mygdx/game/interfaces/domain/Resettable.java
+ com.mygdx.game.interfaces.domain.Resettable
+com/mygdx/game/movement/Move.java
+ com.mygdx.game.movement.Move
+com/mygdx/game/movement/CollisionEffect.java
+ com.mygdx.game.movement.CollisionEffect
+com/mygdx/game/processors/Renderer.java
+ com.mygdx.game.processors.Renderer
+com/mygdx/game/interfaces/domain/Collidable.java
+ com.mygdx.game.interfaces.domain.Collidable
+com/mygdx/game/creatures/hero/Hero.java
+ com.mygdx.game.creatures.hero.Hero
+ com.mygdx.game.creatures.hero.Hero$1
+com/mygdx/game/world/DoubleBufferedWorld.java
+ com.mygdx.game.world.DoubleBufferedWorld
+com/mygdx/game/interfaces/Drawable.java
+ com.mygdx.game.interfaces.Drawable
+com/mygdx/game/assets/BackgroundTiles.java
+ com.mygdx.game.assets.BackgroundTiles
+com/mygdx/game/movement/DefaultMove.java
+ com.mygdx.game.movement.DefaultMove
+com/mygdx/game/assets/CharacterTiles.java
+ com.mygdx.game.assets.CharacterTiles
+com/mygdx/game/interfaces/domain/Combatant.java
+ com.mygdx.game.interfaces.domain.Combatant
+com/mygdx/game/processors/AnimationProcessor.java
+ com.mygdx.game.processors.AnimationProcessor
+com/mygdx/game/interfaces/domain/Creature.java
+ com.mygdx.game.interfaces.domain.Creature
+com/mygdx/game/interfaces/domain/world/World.java
+ com.mygdx.game.interfaces.domain.world.World
+com/mygdx/game/movement/CollidableType.java
+ com.mygdx.game.movement.CollidableType
+com/mygdx/game/assets/Textures.java
+ com.mygdx.game.assets.Textures
+com/mygdx/game/interfaces/domain/UserInput.java
+ com.mygdx.game.interfaces.domain.UserInput
+com/mygdx/game/creatures/enemies/SlimeFactory.java
+ com.mygdx.game.creatures.enemies.SlimeFactory
+com/mygdx/game/creatures/enemies/Slime.java
+ com.mygdx.game.creatures.enemies.Slime
+com/mygdx/game/HelloHeroWorld.java
+ com.mygdx.game.HelloHeroWorld
+com/mygdx/game/processors/CollisionsProcessor.java
+ com.mygdx.game.processors.CollisionsProcessor
+ com.mygdx.game.processors.CollisionsProcessor$BoundingBox
